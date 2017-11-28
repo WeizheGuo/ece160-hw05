@@ -1,6 +1,4 @@
 #include "Student.h"
-#include <string>
-#include <vector>
 
 Student::Student(std::string fn, std::string ln, int y, Major m){
     _first_name = fn;
